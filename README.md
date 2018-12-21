@@ -1,4 +1,4 @@
-Home Assistant Goldair WiFi Heater component
+Home Assistant Goldair WiFi Fan component
 ============================================
 
 The `goldair_heater` component integrates 
